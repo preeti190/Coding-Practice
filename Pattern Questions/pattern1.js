@@ -1,0 +1,18 @@
+{/* <script>
+*****
+*****
+*****
+*****
+*****
+</script> */}
+
+//outer loop prints rows
+//inner loop prints columns
+
+for(let i = 0; i < 5; i++){
+    for(j = 0; j< 6; j++){
+        document.write('* ');
+
+    }
+    document.write("<br>")
+}
