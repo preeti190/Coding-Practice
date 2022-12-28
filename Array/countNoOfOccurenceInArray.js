@@ -1,0 +1,1 @@
+//write a program in wich count number of occurence in a sorted array

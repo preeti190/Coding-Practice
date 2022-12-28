@@ -6,11 +6,11 @@ for (let i = 0; i < arr.length; i++) {
         if (arr[i] === arr[j]) {
             break;
         }
-       
+
     }
-     if (i === j) {
-            distinctValues.push(arr[i])
-        }
+    if (i === j) {
+        distinctValues.push(arr[i])
     }
+}
 
 console.log(distinctValues);

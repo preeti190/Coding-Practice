@@ -1,0 +1,1 @@
+// count frequency of array element
